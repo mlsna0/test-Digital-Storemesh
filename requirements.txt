@@ -1,0 +1,4 @@
+pandas
+prefect
+pytest
+sqlite3
